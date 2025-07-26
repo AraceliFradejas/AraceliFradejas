@@ -14,8 +14,15 @@
 | **Capstone-Project — Desarrollador 10X IIA** | My master project from the Instituto de Inteligencia Artificial: GenAI + LangChain + Streamlit + RAG to make customer feedback actually useful. |
 | **Kaggle-Google-Capstone-Project** | The notebook & deliverables for Google × Kaggle’s GenAI Intensive Course (2025Q1). |
 | **GenAI-Google-Kaggle-Capstone-Project** | Complementary repo with extra experiments that wouldn’t fit in one notebook. |
-| **MasterThePower _PBI-ejercicios-y-retos_** | Power BI challenges, dashboards and data-viz wizardry. |
-| **AraceliFradejas (this repo!)** | Config & README for my GitHub profile—aka this very page. |
+| **Power-Up-challenge-Conversational-Agents-v1.0** | A fully working chatbot assistant that creates software requirements — built with Microsoft Copilot Studio. |
+| **Power-Up-challenge-Autonomous-Agents-v1.0** | AI-powered agents that validate business logic, NIFs, and plans — with JSON generation and PDF output. |
+| **Power-Up-challenge-Power-Up-Challenge-v1.0** | Full Power Platform solution: Dataverse, Canvas & Model-driven apps, Automate flows, and Power BI reports. |
+| **KelseTsBusinessSchoolLanding** | Custom landing page for the Parking Challenge — coded in JS and styled with Tailwind. |
+| **SOS_Expats** | Prototype site for a business idea: relocation services for expats, explored in my marketing final project. |
+| **MasterThePower_PBI-ejercicios-y-retos** | Power BI challenges, dashboards and data-viz wizardry. |
+| **carphotos** | HTML gallery with real car pictures used in VIP parking demo. |
+| **oniria** | A dreamy landing page built as a creative frontend experiment. |
+| **AraceliFradejas (this repo!)** | Config & README for my GitHub profile — aka this very page. |
 
 > More details inside each repo. Grab some popcorn and explore the commits! 🍿  
 > (Yeah, the commit messages are sometimes in Spanglish. Qué le vamos a hacer.)
@@ -37,16 +44,9 @@ Expect fresh repos, blog posts, and maybe a rogue dancing-robot GIF to appear he
 
 ## ⚙️ Toolbox
 
-<code>Python</code> • <code>Jupyter&nbsp;Notebook</code> • <code>Power BI</code> • <code>SQL</code> • <code>GitHub&nbsp;Actions</code> • <code>Copilot</code> • <code>VS Code + Cursor</code>
+<code>Python</code> • <code>Jupyter&nbsp;Notebook</code> • <code>Power BI</code> • <code>Power Platform</code> • <code>SQL</code> • <code>GitHub&nbsp;Actions</code> • <code>Copilot Studio</code> • <code>Power Automate</code> • <code>VS Code + Cursor</code>
 
 ---
 
-## ☎️ Let’s Connect
+## ☎️
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/araceli-fradejas-munoz-transformaciondigital)  
-- 🐦 [X / Twitter @AraceliFradejas](https://twitter.com/AraceliFradejas)  
-- ✉️ Open to collabs, coffee chats & meme exchanges—drop an issue or DM!
-
-<p align="center">
-  <i>Built with passion, caffeine, and a splash of <strong>Madrid’s late-night sparkle ✨</strong></i>
-</p>
