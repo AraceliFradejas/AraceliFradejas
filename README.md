@@ -20,9 +20,7 @@
 | **KelseTsBusinessSchoolLanding** | Custom landing page for the Parking Challenge — coded in JS and styled with Tailwind. |
 | **SOS_Expats** | Prototype site for a business idea: relocation services for expats, explored in my marketing final project. |
 | **MasterThePower_PBI-ejercicios-y-retos** | Power BI challenges, dashboards and data-viz wizardry. |
-| **carphotos** | HTML gallery with real car pictures used in VIP parking demo. |
 | **oniria** | A dreamy landing page built as a creative frontend experiment. |
-| **AraceliFradejas (this repo!)** | Config & README for my GitHub profile — aka this very page. |
 
 > More details inside each repo. Grab some popcorn and explore the commits! 🍿  
 > (Yeah, the commit messages are sometimes in Spanglish. Qué le vamos a hacer.)
