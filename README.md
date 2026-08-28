@@ -62,6 +62,12 @@ Currently working at **Línea Directa** while intensively upskilling in generati
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
 </div>
 
@@ -99,6 +105,18 @@ Currently working at **Línea Directa** while intensively upskilling in generati
 | [**SOS_Expats**](https://github.com/AraceliFradejas/SOS_Expats) | Web prototype for a business idea: relocation services for expats, explored as a marketing final project. | `HTML` `CSS` `JS` |
 | [**Proyecto-LANDING-PAGE-1**](https://github.com/AraceliFradejas/Proyecto-LANDING-PAGE-1) | First training project landing page. Early steps in web layout and front-end design. | `HTML` `CSS` |
 | [**oniria**](https://github.com/AraceliFradejas/oniria) | Creative frontend experiment: a dreamy, visual, immersive landing page. | `HTML` `CSS` `JS` |
+| [**AFM Inspiration**](https://github.com/AraceliFradejas/Proyecto-RTC-PROYECTO-PINTEREST-ASYNC) | Responsive Pinterest-style gallery with asynchronous search, dynamic filters and real image data from Unsplash. [Live demo](https://proyecto-rtc-proyecto-pinterest-asy.vercel.app/). | `Vite` `JavaScript` `Unsplash API` `CSS` |
+| [**AFM Portfolio**](https://github.com/AraceliFradejas/RTC-PROYECTO4-PORTFOLIO) | Bilingual professional portfolio with dynamic components, responsive design and interactive experience/education views. [Live demo](https://rtc-proyecto4-portfolio.vercel.app/). | `Vite` `JavaScript` `CSS` |
+| [**Games Hub**](https://github.com/AraceliFradejas/RTC-PROYECTO5-GAMES-HUB) | Three modular browser games with persistent scores, bilingual content and a fully responsive interface. [Live demo](https://rtc-proyecto-5-games-hub.vercel.app/). | `Vite` `JavaScript` `LocalStorage` `CSS Grid` |
+
+### 🧩 Backend, APIs & Web Scraping
+
+| Repository | Description | Tech |
+|---|---|---|
+| [**Taylor Swift Discography API REST**](https://github.com/AraceliFradejas/RTC-PROYECTO6-API-REST) | Relational API for albums and songs with full CRUD, validated idempotent seeds and a bilingual frontend. [Live app](https://ret-proyecto6-api-rest.vercel.app/). | `Node.js` `Express` `MongoDB Atlas` `Mongoose` |
+| [**Hogwarts API REST Auth**](https://github.com/AraceliFradejas/RTC-PROYECTO7-API-REST-AUTH) | Secure API for users, houses and wands with JWT authentication, password hashing and role-based permissions. | `Node.js` `Express` `MongoDB` `JWT` `bcrypt` |
+| [**The Eras Tour API REST Files**](https://github.com/AraceliFradejas/RTC-PROYECTO8-API-REST-FILES) | Digital archive of 149 concerts and 238 songs with relational data and a complete Cloudinary file lifecycle. | `Node.js` `Express` `MongoDB` `Cloudinary` `Multer` |
+| [**Books to Scrape**](https://github.com/AraceliFradejas/RTC-PROYECTO9-WEB-SCRAPPING-) | Paginated scraper covering 50 pages and 1,000 books, extended into a MongoDB-backed REST API and verified by 14 automated tests. | `Puppeteer` `Node.js` `Express` `MongoDB` `Mongoose` |
 
 ---
 
